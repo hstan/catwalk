@@ -1,0 +1,26 @@
+{
+  "name": "catwalk",
+  "main": "catwalk.js",
+  "version": "0.0.1",
+  "authors": [
+    "hstan <tanhanshuo@gmail.com>"
+  ],
+  "description": "A lightweight model system with http utilities included.",
+  "keywords": [
+    "model"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/hstan/catwalk",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "async_request": "~0.0.1",
+    "jquery": "~2.1.1",
+    "underscore": "~1.6.0"
+  }
+}
